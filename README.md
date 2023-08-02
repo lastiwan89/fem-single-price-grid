@@ -16,9 +16,9 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ### Links
 
 - Solution URL: [Github](https://github.com/lastiwan89/fem-single-price-grid)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://64ca3650d6bea10b4811f4e5--playful-rolypoly-f00ab8.netlify.app/)
 
-## My process
+## My process``
 
 ### Built with
 
